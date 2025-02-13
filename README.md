@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Obrrs
-- 👀 I’m interested in making games
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in making games and building websites
+- 🌱 I’m currently learning Python, Java, CSS
 
 <!---
 Obrrs/Obrrs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
